@@ -11,3 +11,5 @@ langchain
 docker
 autogen-ext[docker]
 streamlit
+autogen-ext[mem0]
+autogen-ext[mem0-local]
